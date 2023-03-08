@@ -1,0 +1,192 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    height: 112px;
+    box-shadow: 2px 0px 15px #ded4d4;
+    background-color: white;
+
+}
+
+.item {
+    margin-right: auto;
+    margin-top: 25px;
+    font-size: 16px;
+    margin-left: 45px;
+
+
+}
+
+.logo {
+    margin-top: 25px;
+    font-size: 21px;
+    margin-left: 122px;
+}
+
+.log {
+    height: 21px;
+}
+
+button#log {
+    font-size: 19px;
+    height: 29px;
+    width: 105px;
+    background-color: rgb(255, 11, 11);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+#item5 {
+    margin-right: 20px;
+
+}
+
+#item4 {
+    margin-right: 20px;
+
+}
+
+#item3 {
+    margin-right: 20px;
+
+}
+
+#item2 {
+    margin-right: 20px;
+
+}
+
+#item5:hover {
+
+    color: rgb(255, 11, 11);
+    cursor: pointer;
+}
+
+#item2:hover {
+
+    color: rgb(255, 11, 11);
+    cursor: pointer;
+}
+
+
+#item3:hover {
+
+    color: rgb(255, 11, 11);
+    cursor: pointer;
+}
+
+
+#item4:hover {
+
+    color: rgb(255, 11, 11);
+    cursor: pointer;
+}
+
+#log:hover {
+    background-color: white;
+    color: rgb(255, 11, 11);
+    border: 2px solid rgb(255, 11, 11);
+    cursor: pointer;
+}
+
+#bitcoin {
+    margin-top: 54px;
+    margin-right: 120px;
+    float: right;
+}
+
+.logo:hover {
+    cursor: pointer;
+}
+
+.heading {
+    font-size: 45px;
+}
+
+.content {
+    margin-top: 95px;
+    margin-left: 120px;
+   
+}
+
+#ninja {
+    height: 43px;
+    background-color: white;
+    width: 112px;
+    border: 2px solid rgb(86, 86, 210);
+    box-shadow: 5px 5px rgb(86, 86, 210);
+    border-radius: 5px;
+}
+
+#ninja:hover {
+    color: white;
+    background-color: rgb(86, 86, 210);
+    box-shadow: none;
+}
+
+.lastline {
+    text-align: center;
+    margin-top: 244px;
+}
+
+header {
+    position: sticky;
+    top: 0px;
+
+}
+
+.badadabaa {
+    display: flex;
+
+    justify-content: space-evenly;
+    height: 100%;
+    width: 100%;
+    margin-top: 99px;
+
+}
+
+.box {
+    border: 2px solid rgb(86, 86, 210);
+    height: 287px;
+    width: 347px;
+    text-align: center;
+    border-radius: 3px;
+    box-shadow: 5px 5px rgb(86, 86, 210);
+  
+}
+
+.box:hover {
+    box-shadow: none;
+}
+
+.crypto {
+    color: white;
+    border-radius: 3px;
+    background-color: rgb(86, 86, 210);
+    border: none;
+    height: 27px;
+    width: 91px;
+
+}
+
+.crypto:hover {
+    background-color: white;
+    border: 2px solid rgb(86, 86, 210);
+    color: rgb(86, 86, 210);
+    cursor: pointer;
+}
+
+.foot {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 67px;
+}
+.child{
+    cursor: pointer;
+    
+}
